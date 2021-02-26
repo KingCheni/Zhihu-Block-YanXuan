@@ -7,6 +7,7 @@
 // @match        https://*.zhihu.com/*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js
+// @updateURL    https://raw.githubusercontent.com/KingCheni/Zhihu-Block-YanXuan/main/main.js
 // ==/UserScript==
 
 (function() {
