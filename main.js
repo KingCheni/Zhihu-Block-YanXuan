@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         知乎屏蔽盐选
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/KingCheni/Zhihu-Block-YanXuan
+// @version      1.0
 // @description  一键屏蔽知乎的盐选内容
 // @author       KingChen
 // @match        https://*.zhihu.com/*
@@ -39,5 +39,4 @@
         }
     }
     $(document).on('mousewheel DOMMouseScroll', zhihu.onMouseScroll);
-    // Your code here...
 })();
